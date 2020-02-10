@@ -1,6 +1,6 @@
 remote_theme: thelehhman/plainwhite-jekyll
 
-title: Your awesome title
+title: Is it a title?
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -21,7 +21,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    twitter: rtd99062
     github:  thelehhman
     linkedIn: in/thelehhman
     rss: rss
