@@ -1,12 +1,13 @@
 remote_theme: samarsault/plainwhite-jekyll
 
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sinil's Dev Diary
+author: Sinil Kang
+email: rtd99062@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello. I'm a student who study game developement in Korea. This is my website and also portfolio.
+  Although I'm still practicing my english, I want to become your friend who visited here!
+  Please contact me via twitter!
+  Thank you for visiting!
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -14,30 +15,20 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Sinil kang
+  tagline: Developer.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/my-face.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
-    dribbble: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    pinterest: jekyll
-    youtube: jekyll
-    facebook: jekyll
-    soundcloud: jekyll
-    telegram: jekyll
-    gitlab: jekyll
+    twitter: n5ZRzd9SHtj10qq
+    github:  IDokan
+    linkedIn: in/sinil-kang-934127198/
 
     # Mastodon instances
     # mastodon:
