@@ -2,7 +2,7 @@
 layout: post
 title:  "Hello My First Post!"
 date:   2020-07-18 16:20:45 +0900
-categories: General Post
+categories: General
 ---
 Hello! Welcome to my first post.
 I'm glad to begin my blog with you.
