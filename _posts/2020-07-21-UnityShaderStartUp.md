@@ -73,10 +73,12 @@ Both of them use two textures.
 
 First Solution, 1. Multiply of two Images.
 Based on first image which look like idle fire itself.
-[fireTest.tga]
+![fireTest.tga](/assets/MySimpleFireEffect/fireTest.tga)
 
 Add secondary image which look smoke of fire.
-[4_2.tga]
+
+![4_2.tga](/assets/MySimpleFireEffect/4_2.tga)
+
 After put them together in same shader. Make second image moves to upward and multiply them rgb, and alpha value seperately.
 
 ```
@@ -91,6 +93,7 @@ After put them together in same shader. Make second image moves to upward and mu
 ```
 
 Then result is going to be like this.
+
 [Result of Simple Image]
 
 Second Solution, 2. Use Noise Image as secondary Texture.
@@ -98,7 +101,9 @@ Same as previous case, use same Image as Primary Image.
 
 However, we are going to use Noise texture as secondary texture.
 Noise texture look like this
-[noise2.png]
+
+![noise2.png](/assets/MySimpleFireEffect/noise2.png)
+
 We move noise texture based on time and plus or minus any component of Noise's color.
 Then this calculation makes fire shimmer.
 
